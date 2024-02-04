@@ -96,7 +96,6 @@ multimethod==1.10
 nest-asyncio==1.5.8
 networkx==3.2.1
 numba==0.58.1
-numpy==1.23.5
 packaging==23.2
 pandas==2.1.4
 parso==0.8.3
